@@ -1,5 +1,5 @@
 # NYC-Taxi-Travel-Time-Prediction
-NYC Taxi Travel Time Prediction -- APMA 4990 Course Project
+[NYC Taxi Travel Time Prediction -- APMA 4990 Course Project](https://github.com/xlyue92/NYC-Taxi-Travel-Time-Prediction/blob/master/final_presentation.ipynb)
 ## team members
 ### Hanpei Hu   uni:hh2751
 Use big query to import large data from TLC on google and process data cleaning for our model preparation;
